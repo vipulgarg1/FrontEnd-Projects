@@ -1,0 +1,39 @@
+body{
+    background: url("../Images/bgGymOp.png")
+    center center fixed;
+    background-size:cover;
+    font-family: 'Pacifico', cursive;
+    
+    
+}
+
+div{
+    background-color:orange;
+    text-align:center;
+    width: 40%;
+    margin:100px auto;
+    border-radius: 25px;
+}
+
+button{
+    background-color:rgba(50, 50, 50);
+    padding:20px;
+    color:white;
+    font-size: 2em;
+    border-radius: 10px;
+}
+
+h1{
+    font-size:4em;
+    font-family: 'Great Vibes', cursive;
+}
+
+p{
+    font-size: 1.8em
+}
+
+i{
+    font-size: 4em;
+    color: limegreen;
+}
+
